@@ -1,0 +1,3 @@
+[submodule "00_Libft"]
+	path = 00_Libft
+	url = https://github.com/Szabold1/42_libft
