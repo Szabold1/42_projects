@@ -10,3 +10,6 @@
 [submodule "02_push_swap"]
 	path = 02_push_swap
 	url = https://github.com/Szabold1/42_push_swap
+[submodule "02_pipex"]
+	path = 02_pipex
+	url = https://github.com/Szabold1/42_pipex
