@@ -1,3 +1,12 @@
 [submodule "00_Libft"]
 	path = 00_Libft
 	url = https://github.com/Szabold1/42_libft
+[submodule "01_ft_printf"]
+	path = 01_ft_printf
+	url = https://github.com/Szabold1/42_printf
+[submodule "01_get_next_line"]
+	path = 01_get_next_line
+	url = https://github.com/Szabold1/42_get_next_line
+[submodule "02_push_swap"]
+	path = 02_push_swap
+	url = https://github.com/Szabold1/42_push_swap
